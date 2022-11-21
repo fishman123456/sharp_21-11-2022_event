@@ -1,0 +1,15 @@
+C:\Users\profi\Documents\Git Hub\sharp_21-11-2022_event\obj\Debug\net6.0\sharp_21-11-2022_event.csproj.AssemblyReference.cache
+C:\Users\profi\Documents\Git Hub\sharp_21-11-2022_event\obj\Debug\net6.0\sharp_21-11-2022_event.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\profi\Documents\Git Hub\sharp_21-11-2022_event\obj\Debug\net6.0\sharp_21-11-2022_event.AssemblyInfoInputs.cache
+C:\Users\profi\Documents\Git Hub\sharp_21-11-2022_event\obj\Debug\net6.0\sharp_21-11-2022_event.AssemblyInfo.cs
+C:\Users\profi\Documents\Git Hub\sharp_21-11-2022_event\obj\Debug\net6.0\sharp_21-11-2022_event.csproj.CoreCompileInputs.cache
+C:\Users\profi\Documents\Git Hub\sharp_21-11-2022_event\bin\Debug\net6.0\sharp_21-11-2022_event.exe
+C:\Users\profi\Documents\Git Hub\sharp_21-11-2022_event\bin\Debug\net6.0\sharp_21-11-2022_event.deps.json
+C:\Users\profi\Documents\Git Hub\sharp_21-11-2022_event\bin\Debug\net6.0\sharp_21-11-2022_event.runtimeconfig.json
+C:\Users\profi\Documents\Git Hub\sharp_21-11-2022_event\bin\Debug\net6.0\sharp_21-11-2022_event.dll
+C:\Users\profi\Documents\Git Hub\sharp_21-11-2022_event\bin\Debug\net6.0\sharp_21-11-2022_event.pdb
+C:\Users\profi\Documents\Git Hub\sharp_21-11-2022_event\obj\Debug\net6.0\sharp_21-11-2022_event.dll
+C:\Users\profi\Documents\Git Hub\sharp_21-11-2022_event\obj\Debug\net6.0\refint\sharp_21-11-2022_event.dll
+C:\Users\profi\Documents\Git Hub\sharp_21-11-2022_event\obj\Debug\net6.0\sharp_21-11-2022_event.pdb
+C:\Users\profi\Documents\Git Hub\sharp_21-11-2022_event\obj\Debug\net6.0\sharp_21-11-2022_event.genruntimeconfig.cache
+C:\Users\profi\Documents\Git Hub\sharp_21-11-2022_event\obj\Debug\net6.0\ref\sharp_21-11-2022_event.dll
